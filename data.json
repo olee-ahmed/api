@@ -1,12 +1,22 @@
 [
   {
     "id": "a1",
-    "title": "car insurence",
+    "title": "car insurance",
     "amount": 200
   },
   {
     "id": "a2",
     "title": "grocery expense",
     "amount": 300
-  }
+  },
+  {
+    "id": "a3",
+    "title": "life insurance",
+    "amount": 150
+  },
+  {
+    "id": "a4",
+    "title": "food expense",
+    "amount": 450
+  },
 ]
