@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a1",
+    "title": "car insurence",
+    "amount": 200
+  },
+  {
+    "id": "a2",
+    "title": "grocery expense",
+    "amount": 300
+  }
+]
