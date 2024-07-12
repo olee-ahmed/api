@@ -1,7 +1,22 @@
 [
   {
     "id": "a1",
-    "title":"car insurancedfgjdfgjdfjgljdflkjgk",
+    "title":"car insurance",
     "amount": 300
+  },
+  {
+    "id": "a2",
+    "title":"grocery expense",
+    "amount": 150
+  },
+  {
+    "id": "a1",
+    "title":"canteen fee",
+    "amount": 250
+  },
+  {
+    "id": "a1",
+    "title":"tour expense",
+    "amount": 200
   }
 ]
