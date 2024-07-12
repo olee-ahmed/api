@@ -1,6 +1,7 @@
 [
   {
     "id": "a1",
-    "title":"car insurance"
+    "title":"car insurance",
+    "amount": 300
   }
 ]
